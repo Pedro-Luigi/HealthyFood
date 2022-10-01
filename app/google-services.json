@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "332308740894",
+    "project_id": "healthy-food-aplicativo",
+    "storage_bucket": "healthy-food-aplicativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332308740894:android:e7980f3f9e540ac222670f",
+        "android_client_info": {
+          "package_name": "com.courseudemy.healthyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332308740894-no60rnf4at46ffsvgoutbeadqu49ckpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWlNcAt3hIFCD8sP9E9YaMG9bCIpI6CQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332308740894-no60rnf4at46ffsvgoutbeadqu49ckpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332308740894:android:0c944af5d1a17ae422670f",
+        "android_client_info": {
+          "package_name": "com.udemy.healthyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332308740894-gobrr6i7m44h9a4as6b2ll0t7eaukvm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udemy.healthyfood",
+            "certificate_hash": "513c60d6e6f978a8ee9255c49fab4865c8e8529d"
+          }
+        },
+        {
+          "client_id": "332308740894-no60rnf4at46ffsvgoutbeadqu49ckpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWlNcAt3hIFCD8sP9E9YaMG9bCIpI6CQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332308740894-no60rnf4at46ffsvgoutbeadqu49ckpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

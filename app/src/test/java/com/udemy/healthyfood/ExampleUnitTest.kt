@@ -1,4 +1,4 @@
-package com.courseudemy.healthyfood
+package com.udemy.healthyfood
 
 import org.junit.Test
 

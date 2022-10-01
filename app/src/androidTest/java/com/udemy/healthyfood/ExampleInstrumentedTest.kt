@@ -1,4 +1,4 @@
-package com.courseudemy.healthyfood
+package com.udemy.healthyfood
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
